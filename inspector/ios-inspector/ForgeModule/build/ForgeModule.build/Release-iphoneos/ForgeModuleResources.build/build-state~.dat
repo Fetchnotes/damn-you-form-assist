@@ -1,22 +1,0 @@
-TForgeModuleResources
-v5
-r1
-cCheck dependencies
-cTouch /Users/alexhorak/forge-workspace/plugins/kill_form_assist/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/plugin.bundle
-
-N/Users/alexhorak/forge-workspace/plugins/kill_form_assist/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/plugin.bundle
-t2
-s0
-
-CCheck dependencies
-r0
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies2e0405c9dc57b741^9f1f06c9dc57b741^---0#1#0#--18"Check dependencies36"CA5B31E8-CD4A-490A-B3C3-B9D3C5F94FF9-
-
-CTouch /Users/alexhorak/forge-workspace/plugins/kill_form_assist/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/plugin.bundle
-s391634121.028080
-e391634121.053592
-r1
-xTouch
-x/Users/alexhorak/forge-workspace/plugins/kill_form_assist/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/plugin.bundle
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection136"Touch /Users/alexhorak/forge-workspace/plugins/kill_form_assist/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/plugin.bundle088e07c9dc57b741^9eb70dc9dc57b741^---0#0#0#--297"Touch build/Release-iphoneos/plugin.bundle    cd /Users/alexhorak/forge-workspace/plugins/kill_form_assist/inspector/ios-inspector/ForgeModule    /usr/bin/touch -c /Users/alexhorak/forge-workspace/plugins/kill_form_assist/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/plugin.bundle36"8F9F4C51-982B-4265-8A06-D78DBE6641B5-
-

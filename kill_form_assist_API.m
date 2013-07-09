@@ -2,14 +2,13 @@
 //  kill_form_assist_API.m
 //  ForgeModule
 //
-//  Created by explhorak on 1/14/13.
-//  Copyright (c) 2013 Trigger Corp. All rights reserved.
+//  Created by Alex Horak on 1/14/13.
 //
 
-#import "kill_form_assist_API.h"
+#import "damn_you_form_assist_API.h"
 #import <QuartzCore/QuartzCore.h>
 
-@implementation kill_form_assist_API
+@implementation damn_you_form_assist_API
 
 + (void)killBar:(ForgeTask *)task text:(NSString *)text {
     
