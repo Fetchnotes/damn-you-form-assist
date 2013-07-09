@@ -8,7 +8,7 @@ Add the `damn_you_form_assist.m` and `damn_you_form_assist.h` into your `ForgeMo
 
 ####Javascript:
 ```js
-forge.internal.call("kill_form_assist.killBar", {
+forge.internal.call("damn_you_form_assist.killBar", {
   text: ""
 }, (function() {
   return alert("Success!");
@@ -19,7 +19,7 @@ forge.internal.call("kill_form_assist.killBar", {
 
 ####CoffeeScript:
 ```coffeescript
-forge.internal.call 'kill_form_assist.killBar',
+forge.internal.call 'damn_you_form_assist.killBar',
   text: ''
   , (->
     alert 'Success!'
