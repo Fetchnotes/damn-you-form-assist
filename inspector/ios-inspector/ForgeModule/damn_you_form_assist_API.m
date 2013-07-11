@@ -1,5 +1,5 @@
 //
-//  kill_form_assist_API.m
+//  damn_you_form_assist_API.m
 //  ForgeModule
 //
 //  Created by Alex Horak on 1/14/13.
@@ -10,7 +10,7 @@
 
 @implementation damn_you_form_assist_API
 
-+ (void)killBar:(ForgeTask *)task text:(NSString *)text {
++ (void)killBar:(ForgeTask *)task {
     
     [[NSNotificationCenter defaultCenter] addObserverForName:@"UIKeyboardCandidateCorrectionDidChangeNotification" object:nil queue:[NSOperationQueue mainQueue] usingBlock:^(NSNotification *note) {
         UIWindow *keyboardWindow = nil;
@@ -34,6 +34,7 @@
                 }
             }
         }
+		[task success:nil];
     }];
 }
 
