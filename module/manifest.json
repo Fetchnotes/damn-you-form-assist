@@ -1,0 +1,6 @@
+{
+    "description": "A native Trigger.IO plugin that yanks the nasty form assistant from Mobile Safari web views.",
+    "name": "damn_you_form_assist", 
+    "platform_version": "v2.0", 
+    "version": "0.1"
+}
