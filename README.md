@@ -34,7 +34,7 @@ iOS6.0 leaves a thin white line above the keyboard that still needs removing. da
 
 ##License
 
-    Copyright (c) 2013, Alex Horak
+    Copyright (c) 2013, Fetchnotes
     All rights reserved.
     
     Redistribution and use in source and binary forms, with or without
